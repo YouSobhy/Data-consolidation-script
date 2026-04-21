@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Except the script
+!import_to_db.py
+!.gitignore
